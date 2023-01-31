@@ -1,0 +1,13 @@
+#gallery {
+    border: 2px solid black;
+    width: 273.75px;
+    margin: 20px auto;
+    overflow: hidden;
+}
+.photos {
+    display: flex;
+    width: 1095px;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
